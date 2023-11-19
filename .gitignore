@@ -46,3 +46,6 @@ venv.bak/
 [Ll]ocal
 [Ss]cripts
 pyvenv.cfg
+
+.DS_Store
+*.DS_Store
